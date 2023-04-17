@@ -1,0 +1,4 @@
+.fdvenv/
+.vscode/
+
+app/__pycache__
